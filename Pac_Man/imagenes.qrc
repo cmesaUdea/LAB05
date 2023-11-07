@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/imagen">
+        <file>pac.png</file>
+        <file>gifmacman.gif</file>
+        <file>pacman1spr.jpeg</file>
+        <file>pacman2spr.jpeg</file>
+        <file>pacman3spr.jpeg</file>
+        <file>PACMAN.png</file>
+        <file>mon.png</file>
+    </qresource>
+</RCC>
